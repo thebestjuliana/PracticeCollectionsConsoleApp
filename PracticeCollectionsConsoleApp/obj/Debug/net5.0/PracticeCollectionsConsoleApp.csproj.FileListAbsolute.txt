@@ -1,0 +1,16 @@
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\bin\Debug\net5.0\PracticeCollectionsConsoleApp.exe
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\bin\Debug\net5.0\PracticeCollectionsConsoleApp.deps.json
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\bin\Debug\net5.0\PracticeCollectionsConsoleApp.runtimeconfig.json
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\bin\Debug\net5.0\PracticeCollectionsConsoleApp.runtimeconfig.dev.json
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\bin\Debug\net5.0\PracticeCollectionsConsoleApp.dll
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\bin\Debug\net5.0\ref\PracticeCollectionsConsoleApp.dll
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\bin\Debug\net5.0\PracticeCollectionsConsoleApp.pdb
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.csprojAssemblyReference.cache
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.AssemblyInfo.cs
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.dll
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\ref\PracticeCollectionsConsoleApp.dll
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.pdb
+C:\Users\sheeh\source\repos\PracticeCollectionsConsoleApp\PracticeCollectionsConsoleApp\obj\Debug\net5.0\PracticeCollectionsConsoleApp.genruntimeconfig.cache
